@@ -35,3 +35,13 @@
 
 - [проект по поиску путей в необычной манере](https://github.com/hevezolly/Pathfinding_Based_Strategy) - проект, над которым я работаю в настояще время. 
 Он демонстрирует реализацию алгоритма поиска путей определенным нестандартным способом.
+
+## Тестовые задания 
+
+Здесь ссылки на тестовые задания, выполненные мной
+
+- [клон Asteroids](https://github.com/hevezolly/Asteroids_task)
+
+- [интеграция анимаций](https://github.com/hevezolly/Animation_task)
+
+- [гиперказуальная ферма](https://github.com/hevezolly/Farm_task)
