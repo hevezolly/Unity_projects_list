@@ -13,10 +13,8 @@ the difficulty is that the descriptions are given in an unknown language and hav
 
 - [OffLight](https://auteam.itch.io/offlight) - game, where you have to bring group of people to the light. Litterally, couse if person steps into the darkness - he dies.
 
-- [Seconds to death](https://auteam.itch.io/seconds-to-death) - симулятор реаниматора. Необходимо управлять обеими руками врача и проводить дефибрилляцию в нужных местах.
-главное - не запутаться в руках и не касаться металлических предметов на теле.
-Мжно играть в одиночку и вдвоем с одного компьютера, от этого полностью меняется впечатление от игры. 
-Разработана вместе с сокомандником [сокомандником](https://github.com/Titankrot)
+- [Seconds to death](https://auteam.itch.io/seconds-to-death) - reanimator simulator. Objective is to controll both doctor's hands to defibrillate successfuly.
+Try not to tungle up your arms!
 
 - [Let there be NO chaos](https://auteam.itch.io/let-there-be-no-chaos) - игра, в которой нужно помещать появляющиеся объекты в нужное место на планете.
 Игра полностью двумерна, а вращение и внешний вид сферы реализовано с помощью шейдера. 
