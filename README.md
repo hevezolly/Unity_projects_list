@@ -1,26 +1,33 @@
-# Список Unity проектов
+# Unity projects list
 
-[Русская версия](README.ru.md)
+[Russian version](README.ru.md)
 
-The list of my projects моих проектов написанных на c# с использованием движка Unity.
+List of my projets written on c# using Unity game engine.
 
 ## Finished
 
-First of all, there are a list of games, that I made with my [teammate](https://github.com/Titankrot) for diffrent types of game jams:
+First of all, here is the list of games written for different game jams:
 
-- [OffLight](https://auteam.itch.io/offlight) - игра, в которой нужно отвести группу людей в безопасное место с помощью света. Если человек оказывается в тени - он умирает.
+- [Strange dataset](https://auteam.itch.io/strange-dataset) - puzzle, in which player will try working as a neural network and sort images based on descriptions. 
+the difficulty is that the descriptions are given in an unknown language and have to be deciphered. This game is built for [wowie game jam 4](https://itch.io/jam/wowie-jam-4) and took 8 place (out of 1015) for creativity. Source files can be found [here](https://github.com/hevezolly/ImageRecognitionWowie)
+
+- [OffLight](https://auteam.itch.io/offlight) - игра, в которой нужно отвести группу людей в безопасное место с помощью света. Если человек оказывается в тени - он
+game, where you have to bring group of people to the light. Litterally, couse if person steps into the darkness - he dies.
 
 - [Seconds to death](https://auteam.itch.io/seconds-to-death) - симулятор реаниматора. Необходимо управлять обеими руками врача и проводить дефибрилляцию в нужных местах.
 главное - не запутаться в руках и не касаться металлических предметов на теле.
-Мжно играть в одиночку и вдвоем с одного компьютера, от этого полностью меняется впечатление от игры.
+Мжно играть в одиночку и вдвоем с одного компьютера, от этого полностью меняется впечатление от игры. 
+Разработана вместе с сокомандником [сокомандником](https://github.com/Titankrot)
 
 - [Let there be NO chaos](https://auteam.itch.io/let-there-be-no-chaos) - игра, в которой нужно помещать появляющиеся объекты в нужное место на планете.
-Игра полностью двумерна, а вращение и внешний вид сферы реализовано с помощью шейдера.
+Игра полностью двумерна, а вращение и внешний вид сферы реализовано с помощью шейдера. 
+Разработана вместе с сокомандником [сокомандником](https://github.com/Titankrot)
 
 - [Cursed Graveyard](https://auteam.itch.io/cursed-graveyard) - к сожалению, времени геймджема не хватило на туториал к игре. 
 Ее цель - закапывать привезенные гробы, получая за это деньги. За деньги можно покупать различные надгробия. Если усопшему не нравится надгробие его могилы, 
 он может вылезти и начать пакостить игроку. Кроме надгробий можно купить различные украшения для кладбища, что увеличивает прибыль и удовлетворенность "постояльцев"
 ~~жизнью~~ посмертием.
+ Разработана вместе с сокомандником [сокомандником](https://github.com/Titankrot)
 
 Кроме того есть мой собственный [относительно законченный проект](https://hevezolly.itch.io/ccube). Эта головоломка находится в играбельном, но сыром состоянии.
 к сожалению, код от нее был утерян, однако я попытался воссоздать основной движок [здесь](https://github.com/hevezolly/Cube_game_example)
