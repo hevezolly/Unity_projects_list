@@ -2,11 +2,11 @@
 
 [Русская версия](README.ru.md)
 
-Список моих проектов написанных на c# с использованием движка Unity.
+The list of my projects моих проектов написанных на c# с использованием движка Unity.
 
-## Законченные
+## Finished
 
-В первую очередь, вот список игр, реализованных мной вместе с [сокомандником](https://github.com/Titankrot) для различных геймджемов:
+First of all, there are a list of games, that I made with my [teammate](https://github.com/Titankrot) for diffrent types of game jams:
 
 - [OffLight](https://auteam.itch.io/offlight) - игра, в которой нужно отвести группу людей в безопасное место с помощью света. Если человек оказывается в тени - он умирает.
 
