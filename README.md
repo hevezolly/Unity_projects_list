@@ -11,8 +11,7 @@ First of all, here is the list of games written for different game jams:
 - [Strange dataset](https://auteam.itch.io/strange-dataset) - puzzle, in which player will try working as a neural network and sort images based on descriptions. 
 the difficulty is that the descriptions are given in an unknown language and have to be deciphered. This game is built for [wowie game jam 4](https://itch.io/jam/wowie-jam-4) and took 8 place (out of 1015) for creativity. Source files can be found [here](https://github.com/hevezolly/ImageRecognitionWowie)
 
-- [OffLight](https://auteam.itch.io/offlight) - игра, в которой нужно отвести группу людей в безопасное место с помощью света. Если человек оказывается в тени - он
-game, where you have to bring group of people to the light. Litterally, couse if person steps into the darkness - he dies.
+- [OffLight](https://auteam.itch.io/offlight) - game, where you have to bring group of people to the light. Litterally, couse if person steps into the darkness - he dies.
 
 - [Seconds to death](https://auteam.itch.io/seconds-to-death) - симулятор реаниматора. Необходимо управлять обеими руками врача и проводить дефибрилляцию в нужных местах.
 главное - не запутаться в руках и не касаться металлических предметов на теле.
