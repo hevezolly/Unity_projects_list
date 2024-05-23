@@ -16,20 +16,14 @@ the difficulty is that the descriptions are given in an unknown language and hav
 - [Seconds to death](https://auteam.itch.io/seconds-to-death) - reanimator simulator. Objective is to controll both doctor's hands to defibrillate successfuly.
 Try not to tungle up your arms!
 
-- [Let there be NO chaos](https://auteam.itch.io/let-there-be-no-chaos) - игра, в которой нужно помещать появляющиеся объекты в нужное место на планете.
-Игра полностью двумерна, а вращение и внешний вид сферы реализовано с помощью шейдера. 
-Разработана вместе с сокомандником [сокомандником](https://github.com/Titankrot)
+- [Let there be NO chaos](https://auteam.itch.io/let-there-be-no-chaos) - game, where you should place appearing objects in a correct on the surface of a planet.
+The game is fully 2d, but rotation and 3d appearence of a sphere implemented with shader.
 
-- [Cursed Graveyard](https://auteam.itch.io/cursed-graveyard) - к сожалению, времени геймджема не хватило на туториал к игре. 
-Ее цель - закапывать привезенные гробы, получая за это деньги. За деньги можно покупать различные надгробия. Если усопшему не нравится надгробие его могилы, 
-он может вылезти и начать пакостить игроку. Кроме надгробий можно купить различные украшения для кладбища, что увеличивает прибыль и удовлетворенность "постояльцев"
-~~жизнью~~ посмертием.
- Разработана вместе с сокомандником [сокомандником](https://github.com/Titankrot)
+- [Cursed Graveyard](https://auteam.itch.io/cursed-graveyard) - Unfortunatley we didn't have time to implement a tutorial at the course of a game jam. 
+Goal of the game is to bury coffins and getting money for it. For those money you can by different tombstones. If the deceased doesn't like his tombstone, 
+he could rise and start creating troubles.
 
-Кроме того есть мой собственный [относительно законченный проект](https://hevezolly.itch.io/ccube). Эта головоломка находится в играбельном, но сыром состоянии.
-к сожалению, код от нее был утерян, однако я попытался воссоздать основной движок [здесь](https://github.com/hevezolly/Cube_game_example)
-
-## Незаконченные
+## Unfinished
 
 Здесь собраны мои прошлые и текущие проекты, которые я по тем или иным причинам не довел до конца. Я работал над ними полностью в одиночку, 
 поэтому с чистой совестью выкладываю исходники и описания проектов.
