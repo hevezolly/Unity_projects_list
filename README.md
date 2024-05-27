@@ -8,6 +8,8 @@ List of my projets written on c# using Unity game engine.
 
 First of all, here is the list of games written for different game jams:
 
+- [Another door](https://auteam.itch.io/another-door) - puzzle game about doors between different dimentions. This is a submission for [Brackeys Game Jam 2024.1](https://itch.io/jam/brackeys-11/rate/2534655) where it took 3 place (out of 787) in overall rating and 1 place in "innovations" category. The game features advanced graphicks programming technique which might have been a reason for such high rating.
+
 - [Strange dataset](https://auteam.itch.io/strange-dataset) - puzzle, in which player will try working as a neural network and sort images based on descriptions. 
 the difficulty is that the descriptions are given in an unknown language and have to be deciphered. This game is built for [wowie game jam 4](https://itch.io/jam/wowie-jam-4) and took 8 place (out of 1015) for creativity. Source files can be found [here](https://github.com/hevezolly/ImageRecognitionWowie)
 
@@ -25,23 +27,18 @@ he could rise and start creating troubles.
 
 ## Unfinished
 
-Здесь собраны мои прошлые и текущие проекты, которые я по тем или иным причинам не довел до конца. Я работал над ними полностью в одиночку, 
-поэтому с чистой совестью выкладываю исходники и описания проектов.
+Here are some proofs of concepts that I was working on
 
-- [платформер про алхимика с процедурной генерацией](https://github.com/hevezolly/Alchemist_Platformer) - наиболее красиво выглядящий мой проект. 
-Из-за отсутствия у меня таланта к pixel art, большинство спрайтов в этой игре сгенерированы процедурно, что улучшает внешний вид.
+- [2d platformer with procedural generation](https://github.com/hevezolly/Alchemist_Platformer) - 2d platformer with extensive amount of procedural generation. Cave layout, grass, background, tiles graphics and seams - all generated.
 
-- [тамагочи, основанная на физике](https://github.com/hevezolly/Tamagotchi) - проект игры на телефон. В ней используется сложная (на мой скромный взгляд) система поведений
+- [physics based tamagochi](https://github.com/hevezolly/Tamagotchi) - project, featuring soft-body simulation and complex behaviour and animation systems.
 
-- [проект по поиску путей в необычной манере](https://github.com/hevezolly/Pathfinding_Based_Strategy) - проект, над которым я работаю в настояще время. 
-Он демонстрирует реализацию алгоритма поиска путей определенным нестандартным способом.
+- [pathfinding project](https://github.com/hevezolly/Pathfinding_Based_Strategy) - proof of concept for a strategy game mechanic based on unusual pathfinding.
 
-## Тестовые задания 
+## Test tasks
 
-Здесь ссылки на тестовые задания, выполненные мной
+- [Asteroids clone](https://github.com/hevezolly/Asteroids_task)
 
-- [клон Asteroids](https://github.com/hevezolly/Asteroids_task)
+- [animation integration](https://github.com/hevezolly/Animation_task)
 
-- [интеграция анимаций](https://github.com/hevezolly/Animation_task)
-
-- [гиперказуальная ферма](https://github.com/hevezolly/Farm_task)
+- [hypercasual farm](https://github.com/hevezolly/Farm_task)
