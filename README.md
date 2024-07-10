@@ -1,7 +1,5 @@
 # Unity projects list
 
-[Russian version](README.ru.md)
-
 List of my projets written on c# using Unity game engine.
 
 ## Finished
